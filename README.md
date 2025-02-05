@@ -1,5 +1,5 @@
-# Intek-FLIM
+# Lifetime GUI
 
-Repository for Intek projects related to FLIM
+Repository for the FLIM processing lifetime graphical user interface
 
 
